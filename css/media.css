@@ -1,0 +1,524 @@
+@media (max-width: 1440px) {
+.catalog{
+    width: 93%;
+}
+    .tabs{
+        width: 90%;
+        padding: 25px 35px;
+        margin: 0 25px;
+    }
+}
+@media (max-width: 1200px) {
+    .kub {
+       right: 45px;
+        width: 90%;
+    }
+    .group img {
+        width: 582px;
+    }
+    .kub-nav h1 {
+        font-size: 20px;
+    }
+    .kompot-nav h1 {
+        font-size: 20px;
+    }
+    .kub-nav{
+        bottom: 174px;
+    }
+    .ugol{
+        top: 190px;
+    }
+    .u{
+        top: 191px;
+    }
+    .p{
+        top: 64px;
+        right: 75px;
+    }
+    .plus{
+        top: 64px;
+        left: 475px;
+    }
+    .block {
+        width: 247px;
+    }
+    .header-num h5{
+        font-size: 10px;
+    }
+}
+@media (max-width: 992px) {
+    .p {
+        top: 44px;
+        right: 53px;
+    }
+    #hero {
+        padding: 50px 0 50px 40px;
+        width: 908px;
+    }
+    .kub {
+        right: -65px;
+    }
+    .hero {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .catalog-title {
+        padding: 0 0 35px 363px;
+    }
+    .hero-title {
+        text-align: center;
+    }
+    .gadjet {
+
+        justify-content: space-between;
+    }
+.block1 {
+    margin: 25px 39px;
+}
+    .hero-title p {
+        width: 757px;
+        font-size: 30px;
+        line-height: 50px;
+        padding-bottom: 106px;
+    }
+    .drone{
+        right: 116px;
+    }
+
+
+    .hero-title h1 {
+        font-size: 40px;
+        line-height: 55px;
+        padding-bottom: 0;
+    }
+    .line {
+        left: 230px;
+        top: 2417px;
+    }
+
+    .plus {
+        top: 47px;
+        left: 333px;
+    }
+
+    .tabs-blocks {
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        width: 80%;
+
+    }
+    .tabs-title{
+        margin: 0 38px;
+        width: 90%;
+        animation: tabs-title 2s ease-in-out;
+    }
+    @keyframes tabs-title {
+        0%{
+            transform: translateX(-300px);
+        }
+    }
+    .header-logo h3 {
+
+        font-size: 8px;
+
+        margin-left: 63px;
+    }
+    .header-logo h3 span{
+        font-size: 8px;
+    }
+    .header-img{
+
+    position: relative;
+    left: 52px;
+}
+
+.header-num h5 {
+    width: 119px;
+    font-size: 12px;
+}
+
+    .catalog {
+        width: 80%;
+        padding: 0 89px;
+    }
+    #tabs {
+        width: 975px;
+
+    }
+    #header {
+        padding: 20px 12px;
+        width: 0;
+        margin: 0 -41px;
+    }
+    .group {
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .kompot-nav {
+        bottom: 167px;
+        left: 151px;
+    }
+
+    .ugol {
+        position: absolute;
+        width: 23px;
+        height: 23px;
+        left: 75px;
+        top: 133px;
+        background: #FFFFFF;
+    }
+
+    .u {
+        left: 71px;
+        top: 131px;
+    }
+
+    .granat1{
+        position: relative;
+        right: 43px;
+    }
+    .tabs-blocks{
+        margin: 0 50px;
+    }
+    .block {
+        padding: 25px 0 0 59px;
+    }
+    .with {
+        padding: 0 3px;
+    }
+    .header-logo1{
+        margin: 0 15px;
+    }
+    .header-footer button {
+        margin: 0 17px;
+    }
+.with h1{
+    font-size: 20px;
+}
+    #gadjet {
+
+        width: 100%;
+    }
+    .header-footer{
+        width: 100%;
+    }
+    .gatjet-nav h5 {
+        width: 77px;
+    }
+    .gatjet-nav h1{
+        margin: 0 2px;
+    }
+    .header-logo1 h3 {
+
+        margin-left: 11px;
+}
+    .header-footer {
+        justify-content: space-around;
+    }
+    #header-footer {
+        padding: 100px -29px 100px 0;
+    }
+    .catalog {
+        width: 80%;
+        padding: 0 0;
+    }
+    #tabs {
+
+        padding: 50px 0;
+    }
+    .group img{
+        width: 424px;
+    }
+
+    .kub-nav h1{
+        font-size: 17px;
+    }
+    .kub-nav p{
+        font-size: 13px;
+    }
+    .kompot-nav h1{
+        font-size: 17px;
+    }
+    .kompot-nav p{
+        font-size: 13px;
+    }
+    .kub-nav {
+        bottom: 120px;
+    }
+    .kompot-nav {
+        bottom: 119px;
+        left: 108px;
+    }
+    .gatjet-nav h1 {
+        font-size: 28px;
+    }
+    .gatjet-nav h5 {
+        width: 191px;
+    }
+}
+@media (max-width: 768px) {
+
+    #hero {
+        padding: 50px 0 50px 40px;
+        width:90%;
+    }
+    #header {
+        padding: 20px 0;
+        width: 0;
+        margin: 0 -41px;
+    }
+    .hero-img {
+        width: 713px;
+        animation: drone 3s ease-in-out;
+    }
+    .tabs-blocks {
+        margin: 0 90px;
+    }
+    .tabs-title {
+        margin: 0 -11px;
+        width: 80%;
+    }
+    #tabs {
+        width: 768px;
+
+    }
+
+    .tabs-title h1 {
+
+        font-size: 16px;
+    }
+    .tabs-title {
+
+        width: 90%;
+    }
+    .tabs-title label{
+        padding: 0 17px;
+    }
+    .block1 {
+        margin: 25px 17px;
+        width: 242px;
+        height: 421px;
+    }
+    .drone {
+        right: 164px;
+        width: 585px;
+        top: 100px;
+        animation: drone 3s ease-in-out;
+    }
+    @keyframes drone {
+        0%{
+            transform: translateX(-300px);
+        }
+    }
+    .granat2{
+        position: relative;
+        right: 44px;
+    }
+
+    .group{
+        flex-direction: column;
+    }
+    .group img{
+        width: 613px;
+    }
+    .line {
+        left: 155px;
+
+    }
+    #gadjet {
+        width: 90%;
+    }
+    .kub{
+        right: -168px;
+        width:70%;
+    }
+.catalog-title{
+    width: 362px;
+    padding: 0 0 35px 62px;
+}
+    .tabs {
+        padding: 25px 0;
+        margin: 0 25px;
+    }
+    .hero-title button {
+        margin-bottom: 30px;
+}
+    .catalog {
+        width: 90%;
+        padding: 0 0;
+    }
+.header-nav a{
+    padding: 0 3px;
+}
+    .header-num button {
+
+        font-size: 10px;
+
+        width: 114px;
+        height: 27px;
+
+        margin-left: -4px;
+    }
+    .header-num h5 {
+        font-size: 10px;
+    }
+    .gatjet-nav h1 {
+        font-size: 18px;
+    }
+    .gatjet-nav h5 {
+        width: 141px;
+    }
+    #header-footer{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .header-footer{
+      flex-wrap: wrap;
+        justify-content: space-between;
+    }
+}
+@media (max-width: 480px) {
+    .hero-title h1 {
+        font-size: 30px;
+        line-height: 45px;
+        padding-bottom: 0;
+    }
+    .hero-title p {
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .drone {
+        width: 330px;
+    }
+    .bg-hero{
+width: 9%;
+    }
+    .bg-hero {
+        position: absolute;
+        right: 16px;
+        top: 43px;
+    }
+        .bg-hero {
+            width: 385px;
+        }
+    .hero-img {
+        width: 390px;
+        height: 320px;
+
+    }
+    .drone {
+        right: 101px;
+        top: 48px;
+    }
+    .hero-block {
+        width: 27px;
+        height: 3px;
+    }
+    .hero-bottom {
+        bottom: 31px;
+    }
+    .hero-info {
+        width: 171px;
+        top: 152px;
+        right: -205px;
+
+    }
+    .hero-info p{
+        padding: 8px 0;
+    }
+    .figure1 {
+        width: 10px;
+        right: -189px;
+        top: 43px;
+    }
+    .group img {
+        width: 460px;
+    }
+    .kub {
+        right: -133px;
+        width: 60%;
+    }
+    .tabs {
+        width: 70%;
+        margin: 0 -164px;
+    }
+    .tabs-title{
+        flex-wrap: wrap;
+        margin: 0 159px;
+        justify-content: space-evenly;
+    }
+    .block1 {
+         margin: 23px 9px;
+         width: 192px;
+         height: 421px;
+     }
+    .tabs-blocks {
+        margin: 0 176px;
+    }
+    .line {
+        left: 45px;
+        top: 2102px;
+        width: 350px;
+    }
+    @keyframes line {
+        0% {
+            transform: translateX(-170px);
+        }
+        50% {
+            transform: translateX(162px);
+        }
+        100% {
+            transform: translateX(-169px);
+        }
+    }
+    .plus {
+        top: 52px;
+        left: 370px;
+        height: 22px;
+    }
+    .u {
+        left: 80px;
+        top: 163px;
+        width: 17px;
+        height: 16px;
+    }
+    .gadjet {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .gatjet-nav h1 {
+        font-size: 38px;
+    }
+    .gadjet h5{
+
+    }
+    .gadjet-nav{
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        flex-direction: column;
+    }
+    .hero-title p {
+        font-size: 15px;
+        line-height: 35px;
+        width: 377px;
+    }
+.hero{
+    width: 80%;
+}
+    .hero-title h1 {
+        font-size: 25px;
+
+    }
+
+
+}
+@media (max-width: 320px) {
+
+}
